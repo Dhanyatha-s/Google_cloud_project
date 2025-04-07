@@ -186,7 +186,7 @@ ORDER BY total_occurrences DESC;
 ---
 
 ## **Contributors**
-- **[Your Name]** - Project Implementation & Documentation
+- **Dhanyatha S** - Project Implementation & Documentation
 
 ---
 
